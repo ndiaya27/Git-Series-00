@@ -24,7 +24,7 @@ J'ai déjà eu à faire du python avec VScode l'année dernière et cette année
 # Ce que j'ai appris
 
 Les principaux concepts de Git et Github valorisés ici sont les répertoires, les branches, les commits et les pushs. 
-J’ai appris à créer et clôner un dépôt et à travailler sur une branche locale mais aussi à suivre les modifications de mes fichiers avec Git et GitHub. Acelà s'ajoute le fait de  modifier un fichier README et d'ajouter des images avec Markdown.
+J’ai appris à créer et clôner un dépôt et à travailler sur une branche locale mais aussi à suivre les modifications de mes fichiers avec Git et GitHub. A celà s'ajoute le fait de  modifier un fichier README et d'ajouter des images avec Markdown.
 
 
 Les principales commandes utilisées sont git clone, git branch, git add, git commit et git push.
