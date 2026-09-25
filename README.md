@@ -14,4 +14,5 @@ J'ai déjà eu à faire du python avec VScode l'année dernière et cette année
 
 ## Image depuis mon PC
 
-![Mon image](image/Capture d'écran 2025-04-01 013741.png)  
+![Mon image](Image/Capture.png)    
+
